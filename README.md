@@ -82,3 +82,19 @@ total=variable1(20,30);
 document.write(total); // 600
 ```
 
+## ejemplo factura
+
+```js
+let factura={
+    numfactura:1,
+    nombrecliente:"john",
+    fecha:"01/01/2020",
+    detalle:[
+        {descripcion:"cocacola",cantidad:3,precio:5000},
+        {descripcion:"fanta",cantidad:1,precio:2000}
+    ],
+    mostrar:function() {
+        document.write("hola");
+    }
+};
+```
