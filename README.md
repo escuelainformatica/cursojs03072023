@@ -1,5 +1,12 @@
 # cursojs03072023
 
+* https://code.visualstudio.com/download
+* https://nodejs.org/es/download
+* https://git-scm.com/downloads
+* crear cuenta de github https://github.com/
+* crear una cuenta e instalar programa https://www.postman.com/
+
+
 ## variables
 Una variable, es un espacio de memoria que se puede modificar.
 
